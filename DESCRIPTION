@@ -1,0 +1,16 @@
+Package: BioFiles
+Type: Package
+Title: Work with bioinformatic files
+Version: 0.0.0.9000
+Authors@R: c(
+    person( "Stuart", "Jefferys",
+        email= "srjefferys@gmail.com", role= c( "aut", "cre" ))
+    )
+Description: Read, write, search, modify, and convert between various
+    bioinformatic files. Includes objects for files and entries, as well as
+    validators. [SRJ:: At least it will eventually.]
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
