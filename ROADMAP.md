@@ -1,5 +1,13 @@
 # BioFiles - Development roadmap
 
+## Maybe
+* 0.0.1 - Granges object to bedgraph file
+* 0.0.1 - Granges object from bedgraph file
+* 0.0.1 - Granges object to bigwig file
+* 0.0.1 - Granges object from bigwig file
+
+# Template
+
 ## Expect
 * 0.0.1 - \<feature\> (Expected in this #.#.# release.)
 * 0.0.\* - \<feature\> (Expected somewhere in this #.# minor version.)
